@@ -77,7 +77,7 @@ number of confirmed cases, Haryana and telangana having highest count of confirm
 <br>
 
 
-<h2> PART-4 => (IF TIME PERSISTS) </h2>
+<h2> PART-4 </h2>
 <li> Connecting the Deep Learning Model to A Web-Based Application wherein the user shall be able to make choices which data to be rendered or visualised on the screen. </li>
 <li> Deploying Tech Stack => Heroku Or Netlify. </li>
 <ul> 
