@@ -4,7 +4,7 @@
  <h3> Features Implemented </h3>
 
  GOAL OF THE PROJECT :- Successful detection of Covid-19 using Chest X-Rays by building a Convolutional Neural Network (CNN)
-and visualising the world data using Covid-29 Trends. 
+and visualising the world data using Covid-19 Trends. 
 
 <ul> <h2> CODE EDITOR (ANY ONE AMONGST THESE) </h2> 
  <li> Pycharm </li>
