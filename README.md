@@ -30,6 +30,7 @@ and visualising the world data using Covid-19 Trends.
 
 For chest X-Ray dcm, jpg, or png are preferred. Not only X-Rays but CT-Scans can also be used as a dataset for the project.
 
+<br>
 <h2> AIM AND GOALS :-  </h2>
 
  <h3> PART-1 (SARS-COV-2 DETECTION)=>  </h3>
@@ -40,9 +41,9 @@ For chest X-Ray dcm, jpg, or png are preferred. Not only X-Rays but CT-Scans can
 <li> Extent of The Spread In the Body Can be detected using Deep Learning Models And CNN. </li>
 <li> Classify using Image Classification Models And Segmentation Techniques and prediction of COVID Positive or Negative Verdict. </li>
 </ul>
+<br>
 
-
-<h3> PART-2 (DATA TRENDS ANALYSIS)=> </h3>
+<h2> PART-2 (DATA TRENDS ANALYSIS)=> </h2>
 <ul>
 Visualising the preprocessed data set under the following heads :-
 <li> WorldWide COVID-19 Cases. </li>
@@ -62,6 +63,8 @@ x days from 100,000+ cases
  <h3> NOTE :- All of the plots and visualisations are completely interactive and customised (Zoom-In, Zoom-Out, 
  Transcend, etc, Features shall be made available).  </h3>
 
+<br>
+
  <h2> PART-3 => (COVID-19 SPREAD AND OUTBREAK ANALYSIS IN INDIA USING MACHINE LEARNING). </h2>
  
 <li> Reading files by creating dataframes using Pandas. </li>
@@ -74,13 +77,12 @@ number of confirmed cases, Haryana and telangana having highest count of confirm
 <li> How are the CoronaVirus cases rising? (Linear, Exponential, Logarithmic, Parabolic, etc). </li>
 
 <br>
-<br>
 
 
 <h2> PART-4 </h2>
+<ul>
 <li> Connecting the Deep Learning Model to A Web-Based Application wherein the user shall be able to make choices which data to be rendered or visualised on the screen. </li>
 <li> Deploying Tech Stack => Heroku Or Netlify. </li>
-<ul> 
 Technologies Or Tools To Be Used :- 
 <li> ReactJS(Maybe for enhanced GUI) </li>
 <li> HTML </li>
@@ -88,6 +90,10 @@ Technologies Or Tools To Be Used :-
 <li> Github, etc. </li>
 </ul>
 
+
+   <h4> Visualiser Website Deployed At :- https://covid-visualisation-2019.netlify.app/  </h4>
+    <h4> Complete Integrated Website Deployed At :- https://taupe-arithmetic-480e9c.netlify.app/  </h4>
+   <br>
 
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/cv-2.png)
 
