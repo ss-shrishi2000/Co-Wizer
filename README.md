@@ -96,7 +96,16 @@ Technologies Or Tools To Be Used :-
    <br>
 
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/cv-2.png)
+<br>
+<br>
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/png-1.jpg)
+<br>
+<br>
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/cv-1.png)
+<br>
+<br>
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/png-2.jpg)
+<br>
+<br>
 ![Text](https://github.com/ss-shrishi2000/COVID-19-Analyzer/blob/main/png-3.jpg)
+<br>
