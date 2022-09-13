@@ -3,7 +3,8 @@
 
  <h3> Features Implemented </h3>
 
- GOAL OF THE PROJECT :- Successful detection of Covid-19 using Chest X-Rays by building a Convolutional Neural Network (CNN)
+ <h4> GOALS OF THE PROJECT :- </h4> 
+ Successful detection of Covid-19 using Chest X-Rays by building a Convolutional Neural Network (CNN)
 and visualising the world data using Covid-19 Trends. 
 
 <ul> <h2> CODE EDITOR (ANY ONE AMONGST THESE) </h2> 
@@ -14,9 +15,16 @@ and visualising the world data using Covid-19 Trends.
   <br>
  </ul>
  
- <li> PACKAGES => NUMPY, PANDAS, MATPLOTLIB, FOLIUM, PLOTLY, KERAS (DENSE, CONV2D, MAXPOOL2D, DROPOUT, FLATTEN, MODELS, SEQUENTIAL,etc). </li>
+ <ul> <h2> PACKAGES USED => </h2>
+ <li> NUMPY </li>
+ <li> PANDAS </li>
+ <li> MATPLOTLIB </li> 
+ <li>FOLIUM </li>
+ <li> PLOTLY </li>
+ <li> KERAS (DENSE, CONV2D, MAXPOOL2D, DROPOUT, FLATTEN, MODELS, SEQUENTIAL,etc). </li>
+ </ul>
 
- <li> DATASET AVAILABILITY => </li>
+ <ul> <h2> DATASET AVAILABILITY => </h2>
 
   <li> COVID - POSITIVE CASES => https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia </li>
 
@@ -27,8 +35,9 @@ and visualising the world data using Covid-19 Trends.
  3> https://www.eurorad.org/   <br>
  4>https://coronacases.org/   <br>
 </li>
+ </ul>
 
-For chest X-Ray dcm, jpg, or png are preferred. Not only X-Rays but CT-Scans can also be used as a dataset for the project.
+<li> For chest X-Ray dcm, jpg, or png are preferred. Not only X-Rays but CT-Scans can also be used as a dataset for the project. </li>
 
 <br>
 <h2> AIM AND GOALS :-  </h2>
