@@ -1,7 +1,7 @@
 <h1> COVID-19  DETECTION USING DEEP LEARNING AND CNN WITH DATA ANALYSIS, OUTBREAK PREDICTION AND VISUALISATION. </h1>
 
 
- <h3> Features Implemented </h3>
+ <h2> Features Implemented:- </h2>
 
  <h4> GOALS OF THE PROJECT :- </h4> 
  Successful detection of Covid-19 using Chest X-Rays by building a Convolutional Neural Network (CNN)
